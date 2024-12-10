@@ -107,5 +107,5 @@ El codigo del ejercicio se encuentra en: src/Exercise3 donde hay una carpeta scr
 ademas en la carpeta src esta el archivo auth.ts donde se maneja la peticion al backend, el archivo routes.tsx donde se maneja el ruteo de las pantallas
 y en el archivo App.tsx llamo a routs.tsx
 
-// me hubiera gustado agregar una pantalla para cuando escriben una ruta que no existe y diseñar dicha pantalla, tambien me gustaria poder hacer la accion del logout
-// en la pantalla privada y por ultimo agregar mas validaciones al login como por ejemplo si se escribio un email no valido
+me hubiera gustado agregar una pantalla para cuando escriben una ruta que no existe y diseñar dicha pantalla, tambien me gustaria poder hacer la accion del logout
+en la pantalla privada y por ultimo agregar mas validaciones al login como por ejemplo si se escribio un email no valido
